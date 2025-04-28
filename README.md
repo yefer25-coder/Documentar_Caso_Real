@@ -19,7 +19,7 @@ Como caso de uso se va a tratar el metodo que se usa para aprender a dibujar por
 ## 3. Propuesta de soluciones y optimizacion con IA
 **Objetivo der la solucion:**
 
--Generar mas posibilidas de un aprendizaje en el dibujo, teniendo encuenta un proceso o metodo que sirva al usuario.
+-Generar mas posibilidas de un aprendizaje en el dibujo, teniendo encuenta un proceso o metodo que sirva al usuario; con sus preferencias y nivel.
 
 
 
