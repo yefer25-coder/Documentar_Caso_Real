@@ -30,6 +30,7 @@ Como caso de uso se va a tratar el metodo que se usa para aprender a dibujar por
 - La app ofrece clases personalizadas de acuerdo con el nivel del estudiante.
 - Tiene en cuenta diferentes diseños que puede proporcionar el usuario a su gusto.
 - Hace una explicacion detallada del paso a paso para lograr efectos en el dibujo.
+  
 **Beneficios esperados:**
 
 - Un aprendizaje mas interactivo al responder dudas.
