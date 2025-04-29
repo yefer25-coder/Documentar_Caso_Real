@@ -22,7 +22,9 @@ Como caso de uso se va a tratar el metodo que se usa para aprender a dibujar por
 -Generar mas posibilidas de un aprendizaje en el dibujo, teniendo encuenta un proceso o metodo que sirva al usuario; con sus preferencias y nivel, dando detalles, explicaciones y respuesta a preguntas dadas por el mismo.
 
 **Propuesta de solucion con IA:**
--**Tecnologia que va ser empleada:** Un modelo de IA que proporcione una tutoria personalizada al estudiante; tambien implementando un IA con analisis de imagen(CNN).
+
+-**Tecnologia que va ser empleada:** Un modelo de IA que proporcione una tutoria personalizada al estudiante; tambien implementando una IA con analisis de imagen(CNN).
+
 -**Integracion en el flujo:**
 
 - La app ofrece clases personalizadas de acuerdo con el nivel del estudiante.
