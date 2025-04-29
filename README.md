@@ -1,4 +1,4 @@
-# Documentar_Caso_Real para mejorarlo con (IA)
+# Documentar caso real para mejorarlo con (IA)
 Documentar un caso de uso real en el que se transforme un proceso tradicional en una solución potenciada por inteligencia artificial (IA).
 ## 1. Introduccion:
 En este documento podemos encontrar un caso real; el cual puede ser mejorado con la ayuda de la inteligencia artificial (IA).
